@@ -1,2 +1,2 @@
-# Automatic-Segmentation-for-Brain-Tumor-via-Deep-Learning
+# SegmentationforBrainTumorDeepLearning
 Imperial College Final Project EEE
